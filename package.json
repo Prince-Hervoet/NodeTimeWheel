@@ -1,0 +1,24 @@
+{
+  "name": "nodetimewheel",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prince-Hervoet/NodeTimeWheel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prince-Hervoet/NodeTimeWheel/issues"
+  },
+  "homepage": "https://github.com/Prince-Hervoet/NodeTimeWheel#readme",
+  "dependencies": {
+    "nanoid": "^4.0.2",
+    "ts": "^0.2.2"
+  }
+}
